@@ -11,7 +11,7 @@ This project classifies a person's personality type (extrovert or introvert) bas
 - Logistic Regression
 - Decision Tree
 - Random Forest
-- Naive Bayes
+- KNeighborsClassifier
 
 ## ⚙️ Workflow
 1. Data Preprocessing
@@ -21,8 +21,8 @@ This project classifies a person's personality type (extrovert or introvert) bas
 5. Insights and Recommendations
 
 ## 🎯 Results
-- Best Accuracy: **84%** (Decision Tree)
-- ROC-AUC Score: 0.81
+- Best Accuracy: **92.41%** (RandomForestClassifier)
+- ROC-AUC Score: 0.95
 
 ## 🧰 Tools Used
 - Python
