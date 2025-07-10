@@ -38,5 +38,5 @@ This project classifies a person's personality type (extrovert or introvert) bas
 - Turn into a web-based personality test using Streamlit.
 
 ## 🔗 Project Links
-- [GitHub Repo](#)  
+- [GitHub Repo](#personality_datasert.csv)  
 - [Demo (optional)]()
